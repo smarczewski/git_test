@@ -1,0 +1,1 @@
+This smarczewski's first git project!
